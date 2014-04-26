@@ -34,6 +34,7 @@
 
 #include <google/protobuf/wire_format_lite_inl.h>
 
+#include <algorithm>
 #include <stack>
 #include <string>
 #include <vector>
